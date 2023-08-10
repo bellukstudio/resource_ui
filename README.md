@@ -21,7 +21,7 @@ TODO: Open your file pubspec.yaml and add in your dependencies.
 ```dart
 resource:
   git:
-    url: https://github.com/Bellukchips/resource.git
+    url: https://github.com/bellukstudio/resource_ui.git
      ref: master 
 ```
 
